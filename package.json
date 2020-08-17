@@ -1,7 +1,7 @@
 {
   "name": "restify-customer-api",
   "version": "1.0.0",
-  "description": "Simple API made with Restify",
+  "description": "Simple API exercise made with Restify and JWT",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
